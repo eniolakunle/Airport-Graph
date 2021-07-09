@@ -2,7 +2,7 @@
 #include "Flight.h"
 #include "Airport.h"
 
-// Kunle new addition (git reintroduction) v3
+// Kunle new addition (git reintroduction)
 
 int main()
 {
